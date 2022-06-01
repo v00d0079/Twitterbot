@@ -31,7 +31,7 @@ public class twitterbot{
         }
 
         private static String generateURL(){
-            String url = "C:\\\\Users\\\\Scotts Gamer\\\\Desktop\\\\coffeepictures\\\\";
+            String url = "C:\\\\xxx\\\\xxxx\\\\xxxx\\\\xxxx\\\\";
             url+=i+".jpg";
             return url;
         }
